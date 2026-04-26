@@ -13,7 +13,7 @@ TOKEN = "8282317538:AAHVMpbd4E5C_YjdICd0KES_TW3_4taMyy4"
 OWNER_ID = 6930148555
 CHAT_ID = -1003887218129
 THREAD_ID = 472
-PHOTO_PATH = "баннер.jpg"
+PHOTO_PATH = "banner.png"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
